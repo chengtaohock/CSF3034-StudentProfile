@@ -16,5 +16,7 @@ public class StudentProfile {
         System.out.println("Student ID: S87348");
         System.out.println("Programme: Bachelor of Computer Science "
                 + "(Software Engineering) with Honours");
+        System.out.println("Semester: Semester 1");
+        System.out.println("Fovourite Language: Java");
  }
 }
